@@ -325,15 +325,4 @@ Waypoints
 .wp3 { background: url('../img/mathilde.jpg') no-repeat center center; background-position: 200px 10px; height: 100%; }
 /*==========================================================================*/
 
-@media (max-width: 480px){
-		.iphone {
-			width: 180px;
-			float: right;
-		}
-		.iphone-text {
-			color: white;
-		}
-
-}
-
 

@@ -29,3 +29,6 @@
 	.legals { text-align: center; margin: 0; padding: 0; }
 	.credit { text-align: center; }
 }
+@media screen and (max-width:480) {
+	.iphone { display: block}
+}
